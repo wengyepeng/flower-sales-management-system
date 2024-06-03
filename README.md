@@ -6,9 +6,9 @@
 软件架构说明
 
 安装教程
-xxxx
-xxxx
-xxxx
+1.xxxx
+2.xxxx
+3.xxxx
 使用说明
 xxxx
 xxxx
